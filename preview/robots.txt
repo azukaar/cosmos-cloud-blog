@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\azuka\Documents\Publii\sites\cosmos-cloud\preview/sitemap.xml
